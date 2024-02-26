@@ -1,0 +1,67 @@
+[
+  {
+    "id": "a596fc85-7a45-44df-9af2-5dc092d32c02",
+    "name": "Daniel",
+    "age": "27",
+    "height": "5'11",
+    "occupation": "Research Analyst",
+    "starsign": "Capricorn",
+    "ethnicity": "East Asian",
+    "status": "Complicated",
+    "met": "Dating App",
+    "face": "9",
+    "personality": "9"
+  },
+  {
+    "id": "4944b1bc-dd6b-4f4d-88f4-62e8c1598197",
+    "name": "Greg",
+    "age": "25",
+    "height": "6'3",
+    "occupation": "Developer",
+    "starsign": "Aries",
+    "ethnicity": "White/Caucasian",
+    "status": "Over",
+    "met": "School",
+    "face": "7",
+    "personality": "6"
+  },
+  {
+    "id": "a2856083-e9df-49fa-9752-4d4d45368f3c",
+    "name": "John",
+    "age": "30",
+    "height": "5'9",
+    "occupation": "Recruiter",
+    "starsign": "Taurus",
+    "ethnicity": "Hispanic/Latino",
+    "status": "Over",
+    "met": "Gym",
+    "face": "8",
+    "personality": "9"
+  },
+  {
+    "id": "04946f1f-abb3-461f-af36-48f34139fa9a",
+    "name": "Nehal",
+    "age": "27",
+    "height": "6'0",
+    "occupation": "Unemployed",
+    "starsign": "Gemini",
+    "ethnicity": "South Asian",
+    "status": "Friends",
+    "met": "School",
+    "face": "10",
+    "personality": "10"
+  },
+  {
+    "id": "539acc89-09f0-4bb6-9022-afb45348a515",
+    "name": "Trevor",
+    "age": "28",
+    "height": "6'0",
+    "occupation": "Financial Advisor",
+    "starsign": "Aries",
+    "ethnicity": "Southeast Asian",
+    "status": "Talking",
+    "met": "In the Wild",
+    "face": "7",
+    "personality": "7"
+  }
+]
