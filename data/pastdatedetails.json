@@ -1,1 +1,86 @@
-[{"id":"384cff2e-21eb-4807-ac6c-87499c6a3b19","person-id":"50253ba8-86b7-4c67-b65e-cb4f1b48c271","date":"2024-02-25","activity":"Coded","paid":"No $$ Spent","family":"on","friend":"on","cry":"11","end":"Still Ongoing","other":"I'm sleepy"},{"id":1,"person-id":"a596fc85-7a45-44df-9af2-5dc092d32c02","date":"2022-12-31","activity":"Walk Dog","paid":"No $$ Spent","family":"No","friend":"No","cry":"0","end":"Still Ongoing","other":"He's aight"},{"id":2,"person-id":"a596fc85-7a45-44df-9af2-5dc092d32c02","date":"2023-02-14","activity":"Aquarium","paid":"Them","family":"Yes","friend":"Yes","cry":"1","end":"Still Ongoing","other":"Cute lil Valentines Day Date"},{"id":3,"person-id":"4944b1bc-dd6b-4f4d-88f4-62e8c1598197","date":"2023-01-15","activity":"Dinner","paid":"50/50","family":"No","friend":"No","cry":"0","end":"Me","other":"Humour was not the vibe"},{"id":4,"person-id":"a2856083-e9df-49fa-9752-4d4d45368f3c","date":"2023-01-23","activity":"Coffee Shop","paid":"Them","family":"No","friend":"No","cry":"0","end":"Me","other":"Nice guy"},{"id":5,"person-id":"a2856083-e9df-49fa-9752-4d4d45368f3c","date":"2023-02-20","activity":"Park","paid":"No $$ Spent","family":"No","friend":"No","cry":"0","end":"Mutual Ghosting","other":"Got bored"},{"id":6,"person-id":"04946f1f-abb3-461f-af36-48f34139fa9a","date":"2023-02-23","activity":"FaceTime","paid":"No $$ Spent","family":"No","friend":"Yes","cry":"0","end":"Still Ongoing","other":"He's the best!"},{"id":7,"person-id":"539acc89-09f0-4bb6-9022-afb45348a515","date":"2021-06-23","activity":"Bowling","paid":"50/50","family":"No","friend":"No","cry":"0","end":"Me","other":"I'm just picky"}]
+[
+  {
+    "id": 1,
+    "person-id": "a596fc85-7a45-44df-9af2-5dc092d32c02",
+    "date": "2022-12-31",
+    "activity": "Walk Dog",
+    "paid": "No $$ Spent",
+    "family": "No",
+    "friend": "No",
+    "cry": "0",
+    "end": "Still Ongoing",
+    "other": "He's aight"
+  },
+  {
+    "id": 2,
+    "person-id": "a596fc85-7a45-44df-9af2-5dc092d32c02",
+    "date": "2023-02-14",
+    "activity": "Aquarium",
+    "paid": "Them",
+    "family": "Yes",
+    "friend": "Yes",
+    "cry": "1",
+    "end": "Still Ongoing",
+    "other": "Cute lil Valentines Day Date"
+  },
+  {
+    "id": 3,
+    "person-id": "4944b1bc-dd6b-4f4d-88f4-62e8c1598197",
+    "date": "2023-01-15",
+    "activity": "Dinner",
+    "paid": "50/50",
+    "family": "No",
+    "friend": "No",
+    "cry": "0",
+    "end": "Me",
+    "other": "Humour was not the vibe"
+  },
+  {
+    "id": 4,
+    "person-id": "a2856083-e9df-49fa-9752-4d4d45368f3c",
+    "date": "2023-01-23",
+    "activity": "Coffee Shop",
+    "paid": "Them",
+    "family": "No",
+    "friend": "No",
+    "cry": "0",
+    "end": "Me",
+    "other": "Nice guy"
+  },
+  {
+    "id": 5,
+    "person-id": "a2856083-e9df-49fa-9752-4d4d45368f3c",
+    "date": "2023-02-20",
+    "activity": "Park",
+    "paid": "No $$ Spent",
+    "family": "No",
+    "friend": "No",
+    "cry": "0",
+    "end": "Mutual Ghosting",
+    "other": "Got bored"
+  },
+  {
+    "id": 6,
+    "person-id": "04946f1f-abb3-461f-af36-48f34139fa9a",
+    "date": "2023-02-23",
+    "activity": "FaceTime",
+    "paid": "No $$ Spent",
+    "family": "No",
+    "friend": "Yes",
+    "cry": "0",
+    "end": "Still Ongoing",
+    "other": "He's the best!"
+  },
+  {
+    "id": 7,
+    "person-id": "539acc89-09f0-4bb6-9022-afb45348a515",
+    "date": "2021-06-23",
+    "activity": "Bowling",
+    "paid": "50/50",
+    "family": "No",
+    "friend": "No",
+    "cry": "0",
+    "end": "Me",
+    "other": "I'm just picky"
+  }
+]
