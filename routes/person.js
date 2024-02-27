@@ -41,4 +41,15 @@ router.post("/:id", (req, res) => {
   res.status(200).json(fileData[personIndex]);
 });
 
+router.delete("/:id", (req, res) => {
+  const id = req.params.id;
+  let fileData = JSON.parse(fs.readFileSync(`./data/person.json`));
+  const personIndex = fileData.findIndex((person) => person.id == id);
+  fileData.splice(personIndex, 1);
+
+  fs.writeFileSync("./data/person.json", JSON.stringify(fileData));
+
+  res.status(200).json(fileData);
+});
+
 module.exports = router;

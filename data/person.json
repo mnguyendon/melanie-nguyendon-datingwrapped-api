@@ -1,18 +1,5 @@
 [
   {
-    "id": "d26f7a37-d9e8-411e-a544-e448e9491fa1",
-    "name": "",
-    "age": "",
-    "height": "Please Select",
-    "occupation": "",
-    "starsign": "Please Select",
-    "ethnicity": "Please Select",
-    "status": "Please Select",
-    "met": "Please Select",
-    "face": "Please Select",
-    "personality": "Please Select"
-  },
-  {
     "id": "a596fc85-7a45-44df-9af2-5dc092d32c02",
     "name": "Daniel",
     "age": "27",
@@ -33,7 +20,7 @@
     "occupation": "Developer",
     "starsign": "Aries",
     "ethnicity": "White/Caucasian",
-    "status": "Talking",
+    "status": "Over",
     "met": "School",
     "face": "7",
     "personality": "6"
