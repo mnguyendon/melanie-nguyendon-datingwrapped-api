@@ -1,5 +1,31 @@
 [
   {
+    "id": "084b052d-406a-4470-90c3-ad1e19a79600",
+    "name": "Kevin",
+    "age": "25",
+    "height": "5'11",
+    "occupation": "Investment Banker",
+    "starsign": "Gemini",
+    "ethnicity": "Southeast Asian",
+    "status": "Talking",
+    "met": "In the Wild",
+    "face": "8",
+    "personality": "8"
+  },
+  {
+    "id": "b9f91343-255f-42eb-8843-b65efdbfd172",
+    "name": "Jimmy",
+    "age": "31",
+    "height": "5'10",
+    "occupation": "Musician",
+    "starsign": "Libra",
+    "ethnicity": "East Asian",
+    "status": "Talking",
+    "met": "Gym",
+    "face": "6",
+    "personality": "10"
+  },
+  {
     "id": "a596fc85-7a45-44df-9af2-5dc092d32c02",
     "name": "Daniel",
     "age": "27",

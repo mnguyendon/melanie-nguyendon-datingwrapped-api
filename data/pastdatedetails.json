@@ -1,5 +1,29 @@
 [
   {
+    "id": "b56fed5e-aeb0-4833-81a4-32467610bd97",
+    "person-id": "084b052d-406a-4470-90c3-ad1e19a79600",
+    "date": "2023-11-03",
+    "activity": "Drinks",
+    "paid": "Them",
+    "family": "Yes",
+    "friend": "Yes",
+    "cry": "1",
+    "end": "Still Ongoing",
+    "other": "I met him at a rave"
+  },
+  {
+    "id": "d7f3f71b-48da-4f2d-9e09-54652560ad73",
+    "person-id": "b9f91343-255f-42eb-8843-b65efdbfd172",
+    "date": "2023-06-28",
+    "activity": "Dinner",
+    "paid": "Them",
+    "family": "No",
+    "friend": "No",
+    "cry": "0",
+    "end": "Still Ongoing",
+    "other": "Kinda Boring"
+  },
+  {
     "id": 1,
     "person-id": "a596fc85-7a45-44df-9af2-5dc092d32c02",
     "date": "2022-12-31",
