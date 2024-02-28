@@ -1,5 +1,31 @@
 [
   {
+    "id": "64771c59-7dfc-434d-be95-12311d625087",
+    "name": "Mark",
+    "age": "32",
+    "height": "6'3",
+    "occupation": "Doctor",
+    "starsign": "Pisces",
+    "ethnicity": "Black/African Descent",
+    "status": "Over",
+    "met": "Dating App",
+    "face": "7",
+    "personality": "9"
+  },
+  {
+    "id": "ac33bfd7-c721-4878-9c57-37c2fa7cb301",
+    "name": "Chris",
+    "age": "30",
+    "height": "5'8",
+    "occupation": "UX Designer",
+    "starsign": "Cancer",
+    "ethnicity": "White/Caucasian",
+    "status": "Talking",
+    "met": "Dating App",
+    "face": "8",
+    "personality": "6"
+  },
+  {
     "id": "084b052d-406a-4470-90c3-ad1e19a79600",
     "name": "Kevin",
     "age": "25",
